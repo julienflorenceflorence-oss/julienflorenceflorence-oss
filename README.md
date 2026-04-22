@@ -1,33 +1,22 @@
-1 #  Julien FLORENCE | Directeur Commercial & Tech Acquisition
-    2
-    3 > **Leader stratégique (ENTJ-A) | +15 ans d'expérience | Expert en croissance de centres de profit.**
-    4
-    5 Bienvenue sur mon laboratoire technique. En tant que **Directeur Commercial spécialisé en Acquisition Tech**, j'utilise GitHub pour démontrer
-      la convergence entre la stratégie business de haut niveau et la maîtrise des outils digitaux modernes.
-    6
-    7 ---
-    8
-    9 ###  Focus Professionnel
-   10 - **Pilotage P&L :** Gestion de centres de profit jusqu'à 2.6M€ de CA.
-   11 - **Growth Strategy :** Développement record de +140% de CA sur 5 ans (Paris 1er).
-   12 - **Management :** Direction et coaching d'équipes pluridisciplinaires (3-15 pers).
-   13 - **Tech Acquisition :** Automatisation CRM, Funnels de conversion, Inbound/Outbound.
-   14
-   15 ### 🛠 Tech Stack Business
-   16 - **Marketing Automation :** HubSpot, Datananas, Google Academy.
-   17 - **Web Fundamentals :** HTML5, CSS3 (conception d'outils de marketing direct).
-   18 - **Data & Ops :** Analyse de performance commerciale, KPIs, CRM Management.
-   19
-   20 ---
-   21
-   22 ### Projets en vedette
-   23 - **[Mon CV Interactif Edition Prestige](https://github.com/VOTRE_PSEUDO/CV-Premium) :** Mon parcours complet codé en HTML/CSS.
-   24 - **[Dossier de Preuves - Diplômes](https://drive.google.com/drive/folders/1fyDIDfloAe2kKqjXOiY0RaXszKXJx3LC?usp=drive_link) :** Accès
-      sécurisé à l'intégralité de mes certifications.
-   25
-   26 ---
-   27
-   28 ###  Me contacter
-   29 - **Email :** julienflorence.florence@gmail.com
-   30 - **Lieu :** Paris / Toulouse
-   31 - **Profil :** ENTJ-A (Le Commandant)
+Julien FLORENCE
+  Directeur Commercial | Expert en Stratégie de Croissance & Acquisition Tech
+
+  Leader né avec un profil ENTJ-A (Commandant), je transforme les ambitions en résultats concrets depuis plus de 15 ans. Mon parcours est marqué par
+  une double culture : l’exigence absolue de l’hôtellerie de luxe internationale et la performance chirurgicale du développement commercial.
+
+  Ce qui me définit :
+   * La culture du résultat : J'ai piloté des centres de profit allant jusqu'à 2,6 M€ de CA (RAS Intérim) et réalisé des croissances records, comme
+     le développement de +140% du chiffre d'affaires du restaurant Ma Salle à Manger (Paris 1er, Île de la Cité) en 5 ans.
+   * L'excellence du Prestige : Formé dans des palaces et établissements étoilés Michelin (The Wesbury Dublin, The Guanahani St-Barth), je maîtrise
+     les codes du luxe et la gestion de standards de qualité sans compromis.
+   * L'hybridation Tech : Spécialisé en acquisition Tech, j'intègre les outils modernes (CRM, Inbound/Outbound, Lead Generation) pour scaler les
+     processus commerciaux et structurer des réseaux performants.
+
+  Mon approche :
+  Visionnaire et organisateur, je ne me contente pas de gérer ; je bâtis des systèmes de vente robustes et je fédère des équipes (jusqu'à 15
+  collaborateurs) autour d'objectifs de croissance ambitieux. Ma force réside dans ma capacité à prendre de la hauteur stratégique tout en restant
+  un homme de terrain capable de négocier des contrats complexes et des mandats exclusifs.
+
+  Expertises :
+  Business Plan | Pilotage P&L | Management & Coaching d'équipes | Stratégie Go-To-Market | Acquisition Tech & Marketing Digital | Négociation de
+  contrats de haut niveau.
