@@ -44,8 +44,8 @@ MÃ©langeant la rigueur opÃ©rationnelle de la haute gastronomie (Palaces 5*, 
 ---
 
 ## ðŸ“« Me contacter
-- **LinkedIn :** [Julien FLORENCE](https://www.linkedin.com/in/ton-lien-ici)
-- **Email :** julienflorence.florence@gmail.com
+- **LinkedIn :** [Julien FLORENCE](https://www.linkedin.com/in/julien-florence)
+- **Email :** julien.florence@gmail.com
 - **MobilitÃ© :** Toulouse (Quint-Fonsegrives) & National
 
 <p align="center">
