@@ -1,6 +1,6 @@
 # ðŸ‘‹ Salut, moi c'est Julien FLORENCE
 
-### ðŸš€ Directeur Commercial | Expert Growth & Acquisition Tech | Ancien Sommelier en Ã‰toilÃ©s Michelin
+### ðŸš€ Directeur Commercial | Expertise Commerciale & Notions de Growth | Ancien Sommelier en Ã‰toilÃ©s Michelin
 
 MÃ©langeant la rigueur opÃ©rationnelle de la haute gastronomie (Palaces 5*, Michelin) avec les stratÃ©gies d'acquisition modernes (Growth, Tech), j'accompagne les entreprises dans leur croissance et le pilotage de leur rentabilitÃ©.
 
@@ -51,3 +51,5 @@ MÃ©langeant la rigueur opÃ©rationnelle de la haute gastronomie (Palaces 5*, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=julienflorenceflorence-oss&show_icons=true&theme=gold" alt="GitHub Stats" />
 </p>
+
+
